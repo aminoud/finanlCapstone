@@ -1,0 +1,5 @@
+admin, adm1n
+amine, easy_password
+jean, pass
+pierre, cardin
+paul, adrien

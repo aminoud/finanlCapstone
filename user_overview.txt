@@ -1,0 +1,21 @@
+User: admin
+Total number of tasks assigned:3
+Percentage assigned: 60.00
+Percentage completed: 33.33
+Percentage still to complete: 66.67
+Percentage overdue: 33.33
+
+User: jean
+Total number of tasks assigned:2
+Percentage assigned: 40.00
+Percentage completed: 50.00
+Percentage still to complete: 50.00
+Percentage overdue: 0.00
+
+User: paul
+Total number of tasks assigned:3
+Percentage assigned: 60.00
+Percentage completed: 33.33
+Percentage still to complete: 66.67
+Percentage overdue: 100.00
+

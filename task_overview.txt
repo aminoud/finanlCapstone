@@ -1,0 +1,6 @@
+Total number of tasks: 5
+Total number of completed tasks: 2
+Total number of uncompleted tasks: 3
+Total number of tasks that are overdue: 2
+Percentage of tasks that are incomplete: 60.0
+Percentage of tasks that are overdue: 40.0
